@@ -1,0 +1,47 @@
+*{
+  font-family: Helvetica;
+}
+
+.heading{
+  overflow: hidden;
+  padding-top: 60px;
+  margin-bottom: 70px;
+  width: 100%;
+  height: 110px;
+  s
+}
+
+h1{
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  color: khaki;
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+}
+
+#textColor{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#blue{
+  color: blue;
+  font-weight: bold;
+}
+
+.first{
+  background-color: mediumspringgreen;
+  width: 100%;
+  height: 40px;
+}
+.second{
+  background-color: lightcoral;
+  height: 40px;
+}
+.third{
+  background-color: skyblue;
+  height: 40px;
+}
